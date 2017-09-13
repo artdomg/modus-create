@@ -1,0 +1,12 @@
+{
+  "name": "modus-create",
+  "version": "1.0.0",
+  "description": "Modus Create Test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": ""
+  },
+  "author": "Arturo Dominguez",
+  "license": "ISC"
+}
