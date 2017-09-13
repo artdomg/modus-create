@@ -4,7 +4,7 @@
 
 ### Requirements
 
-`- nodejs >= 6.11.3`
+- `nodejs >= 6.11.3`
 
 ### Running locally
 
@@ -16,3 +16,7 @@
 ### Running tests
 
 - Run `npm test`
+
+### Notes
+
+- To test the post route manually, the content must be sent as `application/json`

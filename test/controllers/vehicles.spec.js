@@ -49,7 +49,7 @@ describe('vehicles controller', () => {
     };
   });
 
-  describe('requirement 1: get route', () => {
+  describe('get route', () => {
     beforeEach(() => {
       req.params = {
         modelYear: 2015,
@@ -130,7 +130,7 @@ describe('vehicles controller', () => {
     });
   });
 
-  describe('requirement 2: post route', () => {
+  describe('post route', () => {
     beforeEach(() => {
       req.body = {
         modelYear: 2015,
